@@ -1,18 +1,22 @@
 # Mawa-Water-Quality-Mapping-and-Prediction-App
-
+Platform: Android App
+Domain: Water Purificiation & Sanitization
+DL Models: 
+1. Water Quality Prediction using nearest coordinates (86% Accuracy)
+2. Water Quality Prediction using all the water specifications i.e pH, Solids, Turbidity, Conductivity etc (76% Accuracy)
+Suggestions after Results: Provides the Best suggestions after predicting.
 
 Find Water Quality Prediction using nearest coordinates Tensorflow model code file here https://github.com/TanzeelAbbas/DL_Files/blob/main/Bahawalpur_Water_Quality_Prediction_Tensorflow_Code.ipynb
 
 Find Water Quality Prediction tensorflow model code file here https://github.com/TanzeelAbbas/DL_Files/blob/main/Water%20Quality%20Prediction%20Tensorflow%20model%20Code.ipynb 
 
 # UN Sustainable Development Goals
-
+  SDG 6: Clean water and Sanitization 
 
 # Features
-1) 
-2) 
-3) 
-4) 
+1) Predict Water quality 
+2) Water Quality mapping 
+3) Proived best suggestion according to results
 
 # Getting Started
 how to run a Water-Quality-Mapping-and-Prediction-App using TensorFlow Lite model in Android Studio with Java language. Here are the steps you can follow:
