@@ -1,5 +1,6 @@
 # Mawa-Water-Quality-Mapping-and-Prediction-App
 Platform: Android App
+
 Domain: Water Purificiation & Sanitization
 DL Models: 
 1. Water Quality Prediction using nearest coordinates (86% Accuracy)
